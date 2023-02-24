@@ -32,7 +32,7 @@ The Stock Data Pipeline project is a data pipeline designed to collect, clean, a
 ### Prerequisites
 
 For this project you need these to be installed
-* npm
+* pip
   ```sh
   pip install psycopg2 | pandas | numpy
   ```
@@ -53,6 +53,5 @@ Waliiya Rizwan - [@Waliiya Rizwan](https://www.linkedin.com/in/waliiya-rizwan-4b
 
 Project Link: [https://github.com/WaliiyaRizwan/Stock-Data-Pipeline/Stocks_Data_Pipeline.ipynb](https://github.com/WaliiyaRizwan/Stock-Data-Pipeline/Stocks_Data_Pipeline.ipynb)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
