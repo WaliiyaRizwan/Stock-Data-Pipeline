@@ -43,14 +43,13 @@ For this project you need these to be installed
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Waliiya Rizwan - [@Waliiya Rizwan](https://www.linkedin.com/in/waliiya-rizwan-4b3b411b9/)
 
 Project Link: [https://github.com/WaliiyaRizwan/Stock-Data-Pipeline/Stocks_Data_Pipeline.ipynb](https://github.com/WaliiyaRizwan/Stock-Data-Pipeline/Stocks_Data_Pipeline.ipynb)
 
