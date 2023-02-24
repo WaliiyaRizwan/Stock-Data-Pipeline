@@ -20,8 +20,12 @@ The Stock Data Pipeline project is a data pipeline designed to collect, clean, a
 ### Step by Step
 
 1. Data Source: I started with a CSV file containing historical stock data that I downloaded from the internet.
+
+
 2.Extract-Transform-Load (ETL): Using Python, I applied ETL techniques to process the data. This involved extracting the data from the CSV file, transforming it using Pandas to clean and preprocess it, and then loading the cleaned data into a PostgreSQL database.
+
 3.Database: I created a PostgreSQL database to store the cleaned data. This involved setting up a table to hold the data and establishing a connection between my Python script and the database.
+
 4.Data Loading: Finally, I loaded the cleaned data into the PostgreSQL database using a Python library called psycopg2.
 
 
