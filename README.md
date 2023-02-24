@@ -36,6 +36,10 @@ For this project you need these to be installed
   ```sh
   pip install psycopg2 | pandas | numpy
   ```
+  
+ * Postgresql
+ 
+ * Python
 
 
 <!-- LICENSE -->
