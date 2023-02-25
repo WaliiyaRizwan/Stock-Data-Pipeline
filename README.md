@@ -55,7 +55,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Waliiya Rizwan - [@Waliiya Rizwan](https://www.linkedin.com/in/waliiya-rizwan-4b3b411b9/)
 
-Project Link: [[https://github.com/WaliiyaRizwan/Stock-Data-Pipeline/Stocks_Data_Pipeline.ipynb](https://github.com/WaliiyaRizwan/Stock-Data-Pipeline/blob/main/Stocks_Data_Pipeline.ipynb)]([https://github.com/WaliiyaRizwan/Stock-Data-Pipeline/Stocks_Data_Pipeline.ipynb](https://github.com/WaliiyaRizwan/Stock-Data-Pipeline/blob/main/Stocks_Data_Pipeline.ipynb))
-
-
-
+Project Link: [https://github.com/WaliiyaRizwan/Stock-Data-Pipeline/blob/main/Stocks_Data_Pipeline.ipynb](https://github.com/WaliiyaRizwan/Stock-Data-Pipeline/blob/main/Stocks_Data_Pipeline.ipynb)
